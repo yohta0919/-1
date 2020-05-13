@@ -62,26 +62,12 @@ main{
   margin: 15px 0 5px;
 }
 @media screen and (max-width:768px) {
-    header {
-        width: 90%;
-    }
-    .nav-list {
-        width: 90%;
-    }
-    .nav-list-item {
-        width: 90%;
-        margin: 50 0 50px 0;
-    }
-    .social {
-        display: none;
-    }
-    .main-visual-content {
-        width: 90%;
-    }
     main {
-        width: 90%;
+        width: 100%;
     }
     .step-box{
+      width: 90%;
       margin-bottom: 20px;
+      margin-left: 5%;
     }
 }
